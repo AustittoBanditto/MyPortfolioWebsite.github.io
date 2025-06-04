@@ -47,3 +47,5 @@ Welcome to my professional portfolio website — a dynamic and responsive platfo
 - 🌙 Add Dark Mode toggle for better accessibility
 
 - 📊 Integrate skills visualization (e.g., charts, graphs)
+
+IMPORTANT NOTE: access the website through this link - austittobanditto.github.io (copy and paste it into any browser)
